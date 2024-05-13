@@ -1,0 +1,154 @@
+*{margin: 0; padding: 0; }
+
+#wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+}
+
+#header .logo{
+    width: 20%;
+    height: 100px;
+    background-color: #efefef;
+}
+
+#header .nav{
+    width: 80%;
+    height: 100px;
+    background-color: #e3e3e3;
+}
+
+#slider{
+    width: 100%;
+    height: 300px;
+    background-color: #d9d9d9;
+}
+
+#contents{
+    width: 100%;
+    display: flex;
+}
+
+#contents .content1{
+    width: 33.333333%;
+    height: 200px;
+    background-color: #d1d1d1;
+}
+#contents .content2{
+    width: 33.333333%;
+    height: 200px;
+    background-color: #c7c7c7;
+}
+#contents .content3{
+    width: 33.333333%;
+    height: 200px;
+    background-color: #bcbcbc;
+}
+
+#footer{
+    width: 100%;
+    display: flex;
+}
+
+#footer .footer1{
+    width: 20%;
+    height: 100px;
+    background-color: #b1b1b1;
+}
+#footer .footer2{
+    width: 60%;
+    height: 100px;
+    background-color: #a3a3a3;
+}
+#footer .footer3{
+    width: 20%;
+    height: 100px;
+    background-color: #9d9d9d;
+}
+
+
+
+
+
+/* *{margin: 0 auto; padding: 0; list-style-type: none;}
+a{text-align: center; display: block;}
+body{
+    width: 1200px;
+    height: 700px;
+    color: #333;
+    background-color: #fff;
+}
+
+.top{
+    width: 1200px;
+    height: 100px;
+}
+.logo1{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: #006769;
+}
+.menu1{
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: #40A578;
+}
+
+.imgslide{
+    width: 1200px;
+    height: 300px;
+    background-color: #9DDE8B;
+}
+
+.content{
+    width: 1200px;
+    height: 200px;
+}
+
+.nogal{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: #ACE1AF;
+}
+.banner{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: #B0EBB4;
+}
+.sc{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: #BFF6C3;
+}
+
+.bottom{
+    width: 1200px;
+    height: 100px;
+}
+.logo2{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: #B5C18E;
+}
+.copy{
+    width: 800px;
+    height: 100px;
+    float: left;
+    background-color: #EADBC8;
+}
+.f{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: #C7B7A3;
+} */
