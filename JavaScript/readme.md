@@ -4,3 +4,7 @@
 
 ### 02 Clock
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/7ff7fb86-38fe-4e91-a6d2-bd2daf2627e5)
+
+### 03 - Random Color Generator
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/b592f028-20eb-4236-9ffb-067cf655a4c4)
+
