@@ -8,3 +8,11 @@
 ### 03 - Random Color Generator
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/b592f028-20eb-4236-9ffb-067cf655a4c4)
 
+### 04 - Digital Clock
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/d3cf4b74-300d-44e7-8f08-476f4a6fc24f)
+
+### 05 - Random Password Generator
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f95e0533-559f-4a0e-a8e7-8f28572f2b0e)
+
+### 06 - Calendar
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/dc57092b-45b7-4fe9-bc95-7be6102c6cf9)
