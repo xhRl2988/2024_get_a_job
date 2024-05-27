@@ -21,7 +21,7 @@ inputField.addEventListener("keyup", (e) => {
     let inputVal = inputField.value.trim();
 
     if(e.key == "Enter" && inputVal.length > 0){
-        let liTag = '<li class="list pending" onclick="handleStatus(this)"><input type="checkbox"> <span clsss="task">${inputVal}</span> <i class="uil uil-trash" onclick="deleteTask(this)"></i></li>';
+        let liTag = `<li class="list pending" onclick="handleStatus(this)"><input type="checkbox"> <span clsss="task">${inputVal}</span> <i class="uil uil-trash" onclick="deleteTask(this)"></i></li>`;
         todoLists.insertAdjacentHTML("beforeend", liTag);
         inputField.value ="";
         allTasks();
