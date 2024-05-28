@@ -46,3 +46,14 @@
 ### 15 - Dice Roll Simulator
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/7ec33618-582e-4951-823b-8d6245ec6bd1)
 
+### 16 - Color Game
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/bcb7cca5-302f-413c-ae65-894f5c62688d)
+
+### 17 - Dice Roll
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/910d2469-6aeb-4b89-b607-c6fac9c61b32)
+
+### 18 - Color Picker
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/77b575d7-7419-44cc-a2a1-777c3536e376)
+
+
+
