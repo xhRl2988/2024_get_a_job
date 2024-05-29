@@ -55,5 +55,15 @@
 ### 18 - Color Picker
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/77b575d7-7419-44cc-a2a1-777c3536e376)
 
+### 19 - Progress Step
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/26e601ee-7a1b-4d5c-8ed4-df50359a300d)
+
+### 20 - Note App
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/02ba9967-f5c9-4473-854d-a2039a540a4f)
+
+### 21 - Live User Filter
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f4fec2b8-0989-48c3-bb45-9108b66ba321)
+
+
 
 
