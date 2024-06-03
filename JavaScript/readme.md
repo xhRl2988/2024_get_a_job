@@ -64,6 +64,17 @@
 ### 21 - Live User Filter
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f4fec2b8-0989-48c3-bb45-9108b66ba321)
 
+### 22 - Pop The Balloons
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/dbf0b062-57e1-446b-82a9-bf7ce95d0eeb)
+
+### 23 - Decimal To Binary
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4233d6ca-fc5a-4b94-96ae-c35695d9bc5f)
+
+### 24 - Tic Tac Toe
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/49d6d007-87d2-412e-9c69-95a0947004e7)
+
+
+
 
 
 
