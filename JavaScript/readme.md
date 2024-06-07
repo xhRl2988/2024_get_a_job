@@ -73,6 +73,15 @@
 ### 24 - Tic Tac Toe
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/49d6d007-87d2-412e-9c69-95a0947004e7)
 
+### 25 - Stopwatch
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/d1663dcc-b050-4a2a-834a-8ed9c166497d)
+
+### 26 - Traffic Lights
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c88f3942-4002-41be-9c7e-8b5ac2eadebc)
+
+### 27 - Levitate Board
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/6e3198c7-3c15-4eff-a56a-731cb39ef430)
+
 
 
 
