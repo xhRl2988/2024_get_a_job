@@ -82,6 +82,13 @@
 ### 27 - Levitate Board
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/6e3198c7-3c15-4eff-a56a-731cb39ef430)
 
+### 28 - Dynamic Form Field
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/5acdd023-033b-4715-8f6c-72b400c4e858)
+
+### 29 - Text Speed Control
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f87e2b6c-dad1-470d-8e0f-58b7661d231c)
+
+
 
 
 
