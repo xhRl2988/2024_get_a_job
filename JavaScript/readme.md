@@ -88,6 +88,11 @@
 ### 29 - Text Speed Control
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f87e2b6c-dad1-470d-8e0f-58b7661d231c)
 
+### 30 - Wave Effect
+> ![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/5cbaa8a5-5fe1-4f1a-ad82-d9712df1c411)
+
+### 31 - Drawing Pad
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/3432005f-22a8-4d1b-b454-f3530e2a84ab)
 
 
 
