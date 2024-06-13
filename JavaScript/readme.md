@@ -95,7 +95,8 @@
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/3432005f-22a8-4d1b-b454-f3530e2a84ab)
 
 
-
+### 32 - Weather App
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/8702f512-995f-4a6e-811d-c1c1e6535057)
 
 
 
