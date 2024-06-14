@@ -21,6 +21,16 @@ let songs=[
         title: "Peaches",
         artist: "Justin Bieber",
     },
+    {
+        name: "Wellerman",
+        title: "Wellerman",
+        artist: "Nathan Evans",
+    },
+    {
+        name: "Achilles Come Down",
+        title: "Achilles Come Down",
+        artist: "GANGOFYOUTHSBAND",
+    },
 ];
 
 let isplaying = false;
