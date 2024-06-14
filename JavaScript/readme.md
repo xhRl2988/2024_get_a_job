@@ -104,6 +104,10 @@
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/dd000861-e426-4059-bcd8-d8dcd1dc8e33)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/9ecd363a-a90f-4239-8d6d-068c7717011e)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/8daa6620-aade-415e-9dd2-d55660117105)
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/e211747a-2856-4f72-bf70-8b9d29f79d8d)
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/19d7001e-65f7-4133-9fdb-51297b857f5d)
+
+
 
 
 
