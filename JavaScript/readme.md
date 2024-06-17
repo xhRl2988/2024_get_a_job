@@ -107,6 +107,11 @@
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/e211747a-2856-4f72-bf70-8b9d29f79d8d)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/19d7001e-65f7-4133-9fdb-51297b857f5d)
 
+### 35 - Key Code
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/3eb4f0e9-4ab3-4f7e-89e0-c7e4c2a892b6)
+
+### 36 - Simple Form Validation
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/ebb2747f-e31a-42bc-a11c-3a50a05e75b1)
 
 
 
