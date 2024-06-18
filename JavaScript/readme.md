@@ -113,6 +113,10 @@
 ### 36 - Simple Form Validation
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/ebb2747f-e31a-42bc-a11c-3a50a05e75b1)
 
+### 37 - Lorem Ipsum Generate
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/75e4aff3-f42d-40c5-b8a1-36237517a628)
+
+
 
 
 
