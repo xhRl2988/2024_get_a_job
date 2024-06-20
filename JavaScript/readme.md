@@ -119,6 +119,11 @@
 ### 38 - RPS Game
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/e134b5bb-ae21-4478-b5b2-3c8fb5ddb7c5)
 
+### 39 - Snake-Game
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/2c0a6150-1416-4a84-98e9-54ff30f35bf9)
+>!https://github.com/xhRl2988/2024_get_a_job/assets/127915600/52cec3d6-0e05-445d-886e-41ed0c9d6632
+
+
 
 
 
