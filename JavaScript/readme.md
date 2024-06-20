@@ -121,7 +121,7 @@
 
 ### 39 - Snake-Game
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/2c0a6150-1416-4a84-98e9-54ff30f35bf9)
-><img width="80%" src="(https://github.com/xhRl2988/2024_get_a_job/assets/127915600/1a9f3bca-a9fe-4a7c-ba5f-36651dc3c127)"/>
+>![Snake Game - Chrome 2024-06-20 18-26-33](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4fb0d20b-b197-4ff6-92fb-edcefdf17a48)
 
 
 
