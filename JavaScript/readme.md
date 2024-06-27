@@ -123,8 +123,9 @@
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/2c0a6150-1416-4a84-98e9-54ff30f35bf9)
 >![Snake Game - Chrome 2024-06-20 18-26-33](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4fb0d20b-b197-4ff6-92fb-edcefdf17a48)
 
-
-
+### 40 - Age Calculator
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/91eef317-ee87-4fcf-a506-533e2987a14a)
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/3401b8fe-a775-44b9-8a16-78a0df9c9210)
 
 
 
