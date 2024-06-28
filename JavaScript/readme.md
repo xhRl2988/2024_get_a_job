@@ -115,7 +115,7 @@
 
 ### 37 - Lorem Ipsum Generate
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/75e4aff3-f42d-40c5-b8a1-36237517a628)
->
+
 ### 38 - RPS Game
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/e134b5bb-ae21-4478-b5b2-3c8fb5ddb7c5)
 
@@ -126,6 +126,9 @@
 ### 40 - Age Calculator
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/91eef317-ee87-4fcf-a506-533e2987a14a)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/3401b8fe-a775-44b9-8a16-78a0df9c9210)
+
+### 41 - Gradient Generator
+>https://github.com/xhRl2988/2024_get_a_job/assets/127915600/143168e6-b864-4e79-b265-4c07febd4a4f
 
 
 
