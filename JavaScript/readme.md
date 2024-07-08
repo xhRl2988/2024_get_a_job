@@ -130,6 +130,10 @@
 ### 41 - Gradient Generator
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/143168e6-b864-4e79-b265-4c07febd4a4f
 
+### 42 - Sorting Visualizer
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f66923ec-b3ca-45eb-af91-9ee65b60239b)
+>https://github.com/xhRl2988/2024_get_a_job/assets/127915600/62f00135-d51b-424e-967b-234c3b417189
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4a5aa1f4-b863-4a06-83c9-b53186f8e9f1)
 
 
 
