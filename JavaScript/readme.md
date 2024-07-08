@@ -135,6 +135,10 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f66923ec-b3ca-45eb-af91-9ee65b60239b)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4a5aa1f4-b863-4a06-83c9-b53186f8e9f1)
 
+### 43 - Ryan
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/bd4c8907-5075-4d0a-b91b-a2ab5cec2629)
 
+### 44 - Single Div Popsicles
+>![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/bca98e9d-d520-4589-a354-8b019a0865d7)
 
 
