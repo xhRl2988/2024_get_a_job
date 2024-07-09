@@ -144,6 +144,21 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### 43 - Block Runner
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/6eb9c519-838f-4cce-b150-78f01b7120a0
 
+### CSS Project 3
+>https://github.com/xhRl2988/2024_get_a_job/assets/127915600/af2c8e8a-0606-4f52-8151-41cf1f330ae5
+
+### CSS Project 4
+>https://github.com/xhRl2988/2024_get_a_job/assets/127915600/ccd4e1c2-a93a-4c52-826e-857c98057a56
+
+
+
+
+
+
+
+
+
+
 
 
 
