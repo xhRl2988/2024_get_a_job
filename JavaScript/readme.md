@@ -150,7 +150,8 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### CSS Project 4
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/ccd4e1c2-a93a-4c52-826e-857c98057a56
 
-
+### 44- Notes Taking App
+>https://github.com/xhRl2988/2024_get_a_job/assets/127915600/10f390be-cf9a-4b23-8fb3-5e1b651f7a78
 
 
 
