@@ -135,27 +135,29 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/f66923ec-b3ca-45eb-af91-9ee65b60239b)
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/4a5aa1f4-b863-4a06-83c9-b53186f8e9f1)
 
-### CSS Project 1
+### CSS Project 1-1
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/bd4c8907-5075-4d0a-b91b-a2ab5cec2629)
 
-### CSS Project 2
+### CSS Project 1-2
 >![image](https://github.com/xhRl2988/2024_get_a_job/assets/127915600/bca98e9d-d520-4589-a354-8b019a0865d7)
 
 ### 43 - Block Runner
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/6eb9c519-838f-4cce-b150-78f01b7120a0
 
-### CSS Project 3
+### CSS Project 2-1
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/af2c8e8a-0606-4f52-8151-41cf1f330ae5
 
-### CSS Project 4
+### CSS Project 2-2
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/ccd4e1c2-a93a-4c52-826e-857c98057a56
 
 ### 44- Notes Taking App
 >https://github.com/xhRl2988/2024_get_a_job/assets/127915600/10f390be-cf9a-4b23-8fb3-5e1b651f7a78
 
+### CSS Project 3-1
+>![image](https://github.com/user-attachments/assets/a800fbc7-c513-46ad-813e-0abbde625a54)
 
-
-
+### CSS Project 3-2
+>![image](https://github.com/user-attachments/assets/7090c2fc-7afc-4083-b4c0-33eaf945b714)
 
 
 
