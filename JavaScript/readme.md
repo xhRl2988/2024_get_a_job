@@ -159,6 +159,8 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### CSS Project 3-2
 >![image](https://github.com/user-attachments/assets/7090c2fc-7afc-4083-b4c0-33eaf945b714)
 
+### 45 - Typing Platform
+>https://github.com/user-attachments/assets/ca07ed09-c07f-4d59-b445-3680b57fecbb
 
 
 
