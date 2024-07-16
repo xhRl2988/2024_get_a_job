@@ -168,6 +168,8 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### CSS Project 4-2
 >![image](https://github.com/user-attachments/assets/5ad684bb-2a05-4138-9afc-d9b2097ccad5)
 
+### 46 - Navigation Menu Bar
+>https://github.com/user-attachments/assets/7a117e54-0fef-40c4-a383-f077085928f8
 
 
 
