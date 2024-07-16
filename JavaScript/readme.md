@@ -171,6 +171,13 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### 46 - Navigation Menu Bar
 >https://github.com/user-attachments/assets/7a117e54-0fef-40c4-a383-f077085928f8
 
+### CSS Project 5-1
+>![image](https://github.com/user-attachments/assets/49136b13-6938-429b-a990-1f0a93d64985)
+
+### CSS Project 6-2
+>![image](https://github.com/user-attachments/assets/9526314f-75be-429b-adb8-746f54660a72)
+
+
 
 
 
