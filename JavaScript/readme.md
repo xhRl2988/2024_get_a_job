@@ -177,6 +177,10 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 ### CSS Project 6-2
 >![image](https://github.com/user-attachments/assets/9526314f-75be-429b-adb8-746f54660a72)
 
+### 47 - Movie App
+>![image](https://github.com/user-attachments/assets/8c32919c-2f14-44cb-b9be-4fe0da277e85)
+>![image](https://github.com/user-attachments/assets/f01cc7e9-a881-4525-bb6f-284a68868cc7)
+>![image](https://github.com/user-attachments/assets/2f29cd13-df50-4ee7-960a-15e7c40d1636)
 
 
 
