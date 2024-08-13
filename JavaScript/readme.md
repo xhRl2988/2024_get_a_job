@@ -182,6 +182,8 @@ https://github.com/xhRl2988/2024_get_a_job/assets/127915600/c2f61b62-ee6f-496e-a
 >![image](https://github.com/user-attachments/assets/f01cc7e9-a881-4525-bb6f-284a68868cc7)
 >![image](https://github.com/user-attachments/assets/2f29cd13-df50-4ee7-960a-15e7c40d1636)
 
-
+### 48 - Quiz App
+>![image](https://github.com/user-attachments/assets/08cf78ea-e915-4ec3-9474-39937586e66d)
+>![image](https://github.com/user-attachments/assets/c6b85e21-be1b-4af4-8087-2170caedb150)
 
 
